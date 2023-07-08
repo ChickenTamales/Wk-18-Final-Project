@@ -1,0 +1,20 @@
+INSERT INTO detail (detail) VALUES ('camping available');
+INSERT INTO detail (detail) VALUES ('overnight access');
+INSERT INTO detail (detail) VALUES ('safe');
+INSERT INTO detail (detail) VALUES ('skinny dipping friendly');
+INSERT INTO detail (detail) VALUES ('commercial');
+INSERT INTO detail (detail) VALUES ('family friendly');
+INSERT INTO detail (detail) VALUES ('natural');
+INSERT INTO detail (detail) VALUES ('free');
+INSERT INTO detail (detail) VALUES ('entrance fee');
+INSERT INTO detail (detail) VALUES ('day-use only');
+INSERT INTO detail (detail) VALUES ('lifeguard on duty');
+INSERT INTO detail (detail) VALUES ('hike-in');
+INSERT INTO detail (detail) VALUES ('public');
+INSERT INTO detail (detail) VALUES ('A Rating');
+INSERT INTO detail (detail) VALUES ('B Rating');
+INSERT INTO detail (detail) VALUES ('C Rating');
+INSERT INTO detail (detail) VALUES ('D Rating');
+INSERT INTO detail (detail) VALUES ('F Rating');
+INSERT INTO detail (detail) VALUES ('!TOO DANGEROUS! DO NOT ATTEMPT!');
+
